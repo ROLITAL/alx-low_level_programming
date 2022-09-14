@@ -3,7 +3,7 @@
 /**
  * abs - function that computes the absolute
  *
- * takes integer type input
+ *  @n: takes in integer type input for function
  *
  *
  * Return: Always 0 (Success)
