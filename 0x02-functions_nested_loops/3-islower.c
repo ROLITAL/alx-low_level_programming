@@ -1,5 +1,4 @@
 #include "main.h"
-#include<stdio>
 
 /**
  * _islower - function to check if
