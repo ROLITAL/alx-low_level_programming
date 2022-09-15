@@ -9,11 +9,11 @@
  * Return: return 0 on success and 1 on fail
  */
 
-int i = isupper(c);
+int _isupper(c);
 {
 	if (i > 0)
 	{
-		return (1)
+		return (1);
 	}
 	else
 	{
